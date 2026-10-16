@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/8263986617/LEETCODE/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
