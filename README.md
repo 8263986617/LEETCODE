@@ -67,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
