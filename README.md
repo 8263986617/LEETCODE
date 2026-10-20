@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/8263986617/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/8263986617/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/8263986617/LEETCODE/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -90,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/8263986617/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
