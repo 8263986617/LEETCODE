@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0643-maximum-average-subarray-i](https://github.com/8263986617/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/8263986617/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/8263986617/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/8263986617/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/8263986617/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/8263986617/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/8263986617/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
