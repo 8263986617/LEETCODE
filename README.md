@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0643-maximum-average-subarray-i](https://github.com/8263986617/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/8263986617/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/8263986617/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/8263986617/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
