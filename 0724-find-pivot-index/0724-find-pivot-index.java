@@ -1,4 +1,3 @@
-
 class Solution {
     public int pivotIndex(int[] nums) {
         int totalSum = 0;
