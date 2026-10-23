@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/8263986617/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
