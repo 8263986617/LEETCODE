@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/8263986617/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/8263986617/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/8263986617/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/8263986617/LEETCODE/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/8263986617/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0984-string-without-aaa-or-bbb](https://github.com/8263986617/LEETCODE/tree/master/0984-string-without-aaa-or-bbb) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/8263986617/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/8263986617/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
