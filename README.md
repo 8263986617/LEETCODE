@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/8263986617/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/8263986617/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/8263986617/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1816-truncate-sentence](https://github.com/8263986617/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/8263986617/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/8263986617/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/8263986617/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/8263986617/LEETCODE/tree/master/0984-string-without-aaa-or-bbb) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8263986617/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/8263986617/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/8263986617/LEETCODE/tree/master/1816-truncate-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/8263986617/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/8263986617/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/8263986617/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
