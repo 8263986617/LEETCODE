@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/8263986617/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/8263986617/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/8263986617/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/8263986617/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/8263986617/LEETCODE/tree/master/0709-to-lower-case) |
 | [0984-string-without-aaa-or-bbb](https://github.com/8263986617/LEETCODE/tree/master/0984-string-without-aaa-or-bbb) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/8263986617/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/8263986617/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/8263986617/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/8263986617/LEETCODE/tree/master/2409-count-days-spent-together) |
 ## Stack
