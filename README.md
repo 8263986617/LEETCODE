@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/8263986617/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/8263986617/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/8263986617/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/8263986617/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/8263986617/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/8263986617/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/8263986617/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/8263986617/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/8263986617/LEETCODE/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/8263986617/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
