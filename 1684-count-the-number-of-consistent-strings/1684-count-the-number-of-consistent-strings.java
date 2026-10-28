@@ -1,10 +1,10 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
         int mask = 0;
-        HashMap<Character,Integer> ch = new HashMap<>();
+        HashSet<Character> ch = new HashSet<>();
 
         for(char a : allowed.toCharArray()){
-            ch.put(a,1);
+            ch.add(a);
         }
 
         int count=0;
@@ -13,7 +13,7 @@ class Solution {
             boolean f = true;
 
             for(char h:word.toCharArray()){
-                if(!ch.containsKey(h)){
+                if(!ch.contains(h)){
                     f = false;
                     break;
                 }
