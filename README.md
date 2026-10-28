@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/8263986617/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/8263986617/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/8263986617/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/8263986617/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/8263986617/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/8263986617/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/8263986617/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/8263986617/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/8263986617/LEETCODE/tree/master/0290-word-pattern) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/8263986617/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/8263986617/LEETCODE/tree/master/0367-valid-perfect-square) |
