@@ -1,21 +1,26 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        int count = 0;
+        int mask = 0;
+        HashMap<Character,Integer> ch = new HashMap<>();
+
+        for(char a : allowed.toCharArray()){
+            ch.put(a,1);
+        }
+
+        int count=0;
 
         for(String word:words){
-            boolean valid = true;
+            boolean f = true;
 
-            for(char ch:word.toCharArray()){
-                if(allowed.indexOf(ch)==-1){
-                    valid = false;
+            for(char h:word.toCharArray()){
+                if(!ch.containsKey(h)){
+                    f = false;
                     break;
                 }
-
-                
             }
-            if(valid){
-                    count++;
-                }
+            if(f){
+                count++;
+            }
         }
         return count;
     }
