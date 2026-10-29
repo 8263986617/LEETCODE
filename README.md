@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/8263986617/LEETCODE/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/8263986617/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/8263986617/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/8263986617/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/8263986617/LEETCODE/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/8263986617/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/8263986617/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/8263986617/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
