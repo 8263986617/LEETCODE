@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/8263986617/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/8263986617/LEETCODE/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/8263986617/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/8263986617/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/8263986617/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/8263986617/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/8263986617/LEETCODE/tree/master/0058-length-of-last-word) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/8263986617/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/8263986617/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Sliding Window
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/8263986617/LEETCODE/tree/master/0258-add-digits) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/8263986617/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
