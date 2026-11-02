@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/8263986617/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/8263986617/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/8263986617/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/8263986617/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/8263986617/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/8263986617/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/8263986617/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/8263986617/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/8263986617/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/8263986617/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/8263986617/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/8263986617/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
