@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/8263986617/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/8263986617/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/8263986617/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/8263986617/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/8263986617/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/8263986617/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/8263986617/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2235-add-two-integers](https://github.com/8263986617/LEETCODE/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/8263986617/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/8263986617/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
