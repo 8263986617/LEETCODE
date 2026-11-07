@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/8263986617/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/8263986617/LEETCODE/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/8263986617/LEETCODE/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/8263986617/LEETCODE/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/8263986617/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/8263986617/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/8263986617/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/8263986617/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/8263986617/LEETCODE/tree/master/0338-counting-bits) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/8263986617/LEETCODE/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Sliding Window
 |  |
